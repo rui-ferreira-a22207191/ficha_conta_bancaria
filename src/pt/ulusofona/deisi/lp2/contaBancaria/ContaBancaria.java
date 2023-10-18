@@ -21,6 +21,6 @@ public class ContaBancaria {
     }
 
     String getSaldoComoString(){
-        return " " + saldo;
+        return "" + saldo;
     }
 }
